@@ -2,7 +2,7 @@
 
 A player prop projection and line-setting tool, built from the operator's side of the counter. For every player on the NFL slate it projects outcomes across 8 markets, posts a balanced line, and flags props that need human review before they go live.
 
-**Live app:** _add your Streamlit link here_
+**Live app:** (https://bw-prop-desk.streamlit.app/)
 
 ## What it does
 
